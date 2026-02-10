@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 General Skilss/Big Zip.md",
+                "file": "picoCTF/02 General Skilss/First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Zip"
+              "title": "First Find"
             }
           }
         ],
@@ -243,11 +243,13 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/01 General Skills/2Warm.md",
+    "picoCTF/01 General Skills/Lets Warm Up.md",
+    "picoCTF/02 General Skilss/First Find.md",
+    "Sin título.md",
     "picoCTF/02 General Skilss/Big Zip.md",
+    "picoCTF/01 General Skills/2Warm.md",
     "picoCTF/01 General Skills/Nice netcat....md",
     "picoCTF/02 General Skilss",
-    "picoCTF/01 General Skills/Lets Warm Up.md",
     "picoCTF/01 General Skills/Glitch Cat.md",
     "picoCTF/01 General Skills/Obedient Cat.md",
     "picoCTF/01 General Skills/plumbing.md",
