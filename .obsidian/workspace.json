@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 General Skilss/Tab, Tab, Attack.md",
+                "file": "picoCTF/02 General Skilss/Wave a flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tab, Tab, Attack"
+              "title": "Wave a flag"
             }
           }
         ],
@@ -243,8 +243,9 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/02 General Skilss/strings it.md",
     "picoCTF/02 General Skilss/Tab, Tab, Attack.md",
+    "picoCTF/02 General Skilss/Wave a flag.md",
+    "picoCTF/02 General Skilss/strings it.md",
     "picoCTF/02 General Skilss/Static ain't always noise.md",
     "picoCTF/01 General Skills/Warmed Up.md",
     "picoCTF/02 General Skilss/repetitions.md",
