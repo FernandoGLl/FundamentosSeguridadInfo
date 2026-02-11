@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 General Skilss/Based.md",
+                "file": "picoCTF/02 General Skilss/useless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Based"
+              "title": "useless"
             }
           }
         ],
@@ -243,8 +243,9 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/01 General Skills/Lets Warm Up.md",
     "picoCTF/02 General Skilss/Based.md",
+    "picoCTF/02 General Skilss/useless.md",
+    "picoCTF/01 General Skills/Lets Warm Up.md",
     "picoCTF/02 General Skilss/Wave a flag.md",
     "picoCTF/02 General Skilss/Static ain't always noise.md",
     "picoCTF/02 General Skilss/Tab, Tab, Attack.md",
@@ -271,7 +272,6 @@
     "picoCTF/Lets Warm Up.md",
     "Lets Warm Up.md",
     "picoCTF",
-    "01-GeneralSkills/plantilla.md",
     "plantilla/Sin nombre",
     "01-GeneralSkills"
   ]
