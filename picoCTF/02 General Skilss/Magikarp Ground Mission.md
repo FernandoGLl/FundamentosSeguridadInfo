@@ -28,3 +28,8 @@ picoCTF{xxsh_0ut_0f_//4t3r_0b24fc4f}
 
 Notas adicionales
 Se intalo la paqueteria build-essential para poder utilizar el comando ssh
+luego se entro al servidor y despues se fureon abriendo las carpetas y leyendo los archivos para ir pbteniendo las 3 partes de la bandera.
+
+Referencias
+
+https://www.hostinger.com/mx/tutoriales/como-configurar-claves-ssh?utm_campaign=Generic-Tutorials-DSA-t3|NT:Se|LO:MX&utm_medium=ppc&gad_source=1&gad_campaignid=17999056699&gclid=Cj0KCQiAy6vMBhDCARIsAK8rOgnv34hdq0d_YanNZyMGPRutmCAGfKRRKE74sgxLNfHiYiB3aaK55rQaAhPUEALw_wcB
