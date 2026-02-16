@@ -82,5 +82,6 @@ c) Quit
 
 - Para la solcion de este ejercicio, se modifico el código fuente de serpentie.py, lo que se hizo fue reemplazar la función que daba la otra opción, por la que ya se encontraba dentro del codigo que nos da la bandera.
 
+**Referencias**
 
 
