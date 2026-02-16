@@ -16,7 +16,7 @@ Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1
 - "+ x"  - se usa para establecer específicamente el permiso de ejecución de un archivo.
 - el argumento - h sopn opciones dee ayuda o para cambiar el comportamiento de un programa. 
 
-Referencias:
+**Referencias:**
 
 https://www-warp-dev.translate.goog/terminus/chmod-x?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
 https://superuser-com.translate.goog/questions/1387294/whats-the-difference-between-h-and-help?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
