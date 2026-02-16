@@ -39,3 +39,7 @@ picoCTF{m45h_fl1ng1ng_2b072a90}
 
 **Notas adicionales** 
 
+- Se abrió el archivo de nombre level3.py y se identificaron las 7 posibles contraseñas
+
+**Referencias**
+
