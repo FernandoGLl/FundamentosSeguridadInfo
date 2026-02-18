@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 General Skilss/Wave a flag.md",
+                "file": "picoCTF/03 General Skills/Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave a flag"
+              "title": "Serpentine"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 General Skills/PW Crack 3.md",
+                "file": "picoCTF/Tarea 1/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PW Crack 3"
+              "title": "Binary Search"
             }
           }
         ],
@@ -243,13 +243,14 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/Tarea 1/Binary Search.md",
-    "picoCTF/03 General Skills/PW Crack 3.md",
-    "picoCTF/Tarea 1",
     "picoCTF/03 General Skills/Serpentine.md",
     "picoCTF/03 General Skills/Super SSH.md",
-    "picoCTF/03 General Skills/runme.py.md",
     "picoCTF/02 General Skilss/Wave a flag.md",
+    "picoCTF/Tarea 1/Binary Search.md",
+    "picoCTF/03 General Skills/runme.py.md",
+    "picoCTF/Tarea 1/Blame Game.md",
+    "picoCTF/03 General Skills/PW Crack 3.md",
+    "picoCTF/Tarea 1",
     "picoCTF/03 General Skills/PW Crack 2.md",
     "picoCTF/01 General Skills/Lets Warm Up.md",
     "picoCTF/03 General Skills/PW Crack 1.md",
@@ -270,7 +271,6 @@
     "picoCTF/01 General Skills/Obedient Cat.md",
     "picoCTF/01 General Skills/Nice netcat....md",
     "picoCTF/01 General Skills/Glitch Cat.md",
-    "picoCTF/01 General Skills/First Grep.md",
     "picoCTF/02 General Skilss",
     "picoCTF/01 General Skills",
     "picoCTF",
