@@ -23,7 +23,6 @@ Enter your guess: 750
 Congratulations! You guessed the correct number: 750
 Here's your flag: picoCTF{g00d_gu355_bee04a2a}
 Connection to atlas.picoctf.net closed.
-Fercho@MSI:/mnt/c/Users/ferga/downloads$
 ```
 
 **Notas adicionales**
