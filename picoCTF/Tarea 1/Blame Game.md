@@ -24,9 +24,9 @@ Fercho@MSI:/mnt/c/Users/ferga/downloads/drop-in$ grep -ra "picoCTF{" .git/
 
 **Notas Adicionales**
 
-Primero se descarga el archivo de la actividad.
-Luego de esto descomprimimos y esperamos a que se termine este proceso.
-Una vez descomprimido buscamos la bandera con el comando  grep -ra "picoCTF{" .git/
+- Primero se descarga el archivo de la actividad.
+- Luego de esto descomprimimos y esperamos a que se termine este proceso.
+- Una vez descomprimido buscamos la bandera con el comando  grep -ra "picoCTF{" .git/
 
 **Referencias**
 
