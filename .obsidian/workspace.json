@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1/Blame Game.md",
+                "file": "picoCTF/Tarea 1/Collaborative Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blame Game"
+              "title": "Collaborative Development"
             }
           }
         ],
@@ -243,13 +243,14 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/Tarea 1/binhexa.md",
+    "picoCTF/Tarea 1/Blame Game.md",
     "picoCTF/Tarea 1/Binary Search.md",
+    "picoCTF/Tarea 1/binhexa.md",
+    "picoCTF/Tarea 1/Collaborative Development.md",
     "picoCTF/03 General Skills/Serpentine.md",
     "picoCTF/03 General Skills/Super SSH.md",
     "picoCTF/02 General Skilss/Wave a flag.md",
     "picoCTF/03 General Skills/runme.py.md",
-    "picoCTF/Tarea 1/Blame Game.md",
     "picoCTF/03 General Skills/PW Crack 3.md",
     "picoCTF/Tarea 1",
     "picoCTF/03 General Skills/PW Crack 2.md",
@@ -270,7 +271,6 @@
     "picoCTF/02 General Skilss/repetitions.md",
     "picoCTF/01 General Skills/plumbing.md",
     "picoCTF/01 General Skills/Obedient Cat.md",
-    "picoCTF/01 General Skills/Nice netcat....md",
     "picoCTF/02 General Skilss",
     "picoCTF/01 General Skills",
     "picoCTF",
