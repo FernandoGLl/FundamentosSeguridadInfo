@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTFWeb1/logon.md",
+                "file": "picoCTF/picoCTFWeb1/where are the robots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logon"
+              "title": "where are the robots"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/picoCTFWeb1/Insp3ct0r.md",
     "picoCTF/picoCTFWeb1/logon.md",
+    "picoCTF/picoCTFWeb1/where are the robots.md",
+    "picoCTF/picoCTFWeb1/Insp3ct0r.md",
     "picoCTF/picoCTFWeb1/dont-use-client-side.md",
     "picoCTF/Tarea 1/Special.md",
     "picoCTF/picoCTFWeb1",
@@ -256,7 +257,6 @@
     "picoCTF/03 General Skills/fixme2.py.md",
     "picoCTF/03 General Skills/fixme1.py.md",
     "Sin título.md",
-    "picoCTF/03 General Skills/convertme.py.md",
     "picoCTF/03 General Skills",
     "picoCTF/02 General Skilss",
     "picoCTF/01 General Skills",
