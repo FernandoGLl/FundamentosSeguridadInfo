@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1/Special.md",
+                "file": "picoCTF/picoCTFWeb1/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special"
+              "title": "dont-use-client-side"
             }
           }
         ],
@@ -229,8 +229,10 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/Tarea 1/Permissions.md",
     "picoCTF/Tarea 1/Special.md",
+    "picoCTF/picoCTFWeb1/dont-use-client-side.md",
+    "picoCTF/picoCTFWeb1",
+    "picoCTF/Tarea 1/Permissions.md",
     "picoCTF/Tarea 1/chrono.md",
     "picoCTF/Tarea 1/ASCII Numbers.md",
     "picoCTF/01 General Skills/2Warm.md",
@@ -256,7 +258,6 @@
     "picoCTF/03 General Skills/Codebook.md",
     "picoCTF/02 General Skilss/useless.md",
     "picoCTF/03 General Skills",
-    "picoCTF/02 General Skilss/Based.md",
     "picoCTF/02 General Skilss",
     "picoCTF/01 General Skills",
     "picoCTF",
