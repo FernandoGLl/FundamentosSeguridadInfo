@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTFWeb1/Client-side-again.md",
+                "file": "picoCTF/picoCTFWeb1/picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-side-again"
+              "title": "picobrowser"
             }
           }
         ],
@@ -229,8 +229,10 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
-    "picoCTF/picoCTFWeb1/where are the robots.md",
+    "Pasted image 20260222180518.png",
     "picoCTF/picoCTFWeb1/Client-side-again.md",
+    "picoCTF/picoCTFWeb1/picobrowser.md",
+    "picoCTF/picoCTFWeb1/where are the robots.md",
     "picoCTF/picoCTFWeb1/logon.md",
     "picoCTF/picoCTFWeb1/Insp3ct0r.md",
     "picoCTF/picoCTFWeb1/dont-use-client-side.md",
@@ -255,8 +257,6 @@
     "picoCTF/Tarea 1",
     "picoCTF/03 General Skills/PW Crack 2.md",
     "picoCTF/03 General Skills/PW Crack 1.md",
-    "picoCTF/03 General Skills/fixme2.py.md",
-    "picoCTF/03 General Skills/fixme1.py.md",
     "picoCTF/03 General Skills",
     "picoCTF/02 General Skilss",
     "picoCTF/01 General Skills",
