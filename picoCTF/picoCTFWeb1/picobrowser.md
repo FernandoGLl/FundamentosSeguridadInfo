@@ -4,8 +4,6 @@ This website can be rendered only by picobrowser, go and catch the flag! http://
 
 **Solución**
 
-![[Pasted image 20260222180518.png]]
-
 `picoCTF{p1c0_s3cr3t_ag3nt_fba5c48f}`
 
 **Notas adicionales**
