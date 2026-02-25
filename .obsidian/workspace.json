@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTFWeb1/picobrowser.md",
+                "file": "picoCTF/Actividad 09/Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "picobrowser"
+              "title": "Cookies"
             }
           }
         ],
@@ -229,9 +229,11 @@
   },
   "active": "5e1511f16483c4e0",
   "lastOpenFiles": [
+    "picoCTF/picoCTFWeb1/picobrowser.md",
+    "picoCTF/Actividad 09/Cookies.md",
+    "picoCTF/Actividad 09",
     "Pasted image 20260222180518.png",
     "picoCTF/picoCTFWeb1/Client-side-again.md",
-    "picoCTF/picoCTFWeb1/picobrowser.md",
     "picoCTF/picoCTFWeb1/where are the robots.md",
     "picoCTF/picoCTFWeb1/logon.md",
     "picoCTF/picoCTFWeb1/Insp3ct0r.md",
