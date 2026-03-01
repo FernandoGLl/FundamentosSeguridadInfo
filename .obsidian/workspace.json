@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 09/Scavenger Hunt.md",
+                "file": "picoCTF/Actividad 11/Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "Irish-Name-Repo 1"
             }
           }
         ],
@@ -243,9 +243,11 @@
   },
   "active": "1bf58923ee6f2bf9",
   "lastOpenFiles": [
-    "picoCTF/Actividad 09/GET aHEAD.md",
-    "picoCTF/Actividad 09/Scavenger Hunt.md",
     "picoCTF/Actividad 09/Cookies.md",
+    "picoCTF/Actividad 11/Irish-Name-Repo 1.md",
+    "picoCTF/Actividad 11",
+    "picoCTF/Actividad 09/Scavenger Hunt.md",
+    "picoCTF/Actividad 09/GET aHEAD.md",
     "picoCTF/picoCTFWeb1/picobrowser.md",
     "picoCTF/Actividad 09",
     "Pasted image 20260222180518.png",
@@ -271,7 +273,6 @@
     "picoCTF/03 General Skills/Super SSH.md",
     "picoCTF/02 General Skilss/Wave a flag.md",
     "picoCTF/03 General Skills/runme.py.md",
-    "picoCTF/03 General Skills/PW Crack 3.md",
     "picoCTF/Tarea 1",
     "picoCTF/03 General Skills",
     "picoCTF/02 General Skilss",
