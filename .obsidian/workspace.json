@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "picoCTF/Actividad 12/MatchTheRegex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "MatchTheRegex"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 General Skills/2Warm.md",
+                "file": "picoCTF/Actividad 12/SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2Warm"
+              "title": "SOAP"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 11/Irish-Name-Repo 1.md",
+                "file": "picoCTF/Actividad 12/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irish-Name-Repo 1"
+              "title": "Trickster"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 11/More SQLi.md",
+                "file": "picoCTF/Actividad 12/Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
+              "title": "Most Cookies"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,11 +241,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1bf58923ee6f2bf9",
+  "active": "91b621cc30e5ef0e",
   "lastOpenFiles": [
-    "picoCTF/Actividad 11/Irish-Name-Repo 1.md",
-    "picoCTF/Actividad 09/GET aHEAD.md",
+    "picoCTF/Actividad 12/Most Cookies.md",
+    "picoCTF/Actividad 12/Trickster.md",
+    "picoCTF/Actividad 12/SOAP.md",
+    "picoCTF/Actividad 12/MatchTheRegex.md",
     "picoCTF/Actividad 11/More SQLi.md",
+    "picoCTF/Actividad 11/Irish-Name-Repo 1.md",
+    "picoCTF/01 General Skills/2Warm.md",
+    "Bienvenido.md",
+    "picoCTF/Actividad 12",
+    "picoCTF/Actividad 09/GET aHEAD.md",
     "picoCTF/Actividad 11/JaWT Scratchpad.md",
     "picoCTF/Actividad 09/Cookies.md",
     "picoCTF/Actividad 11",
@@ -263,22 +270,15 @@
     "picoCTF/Tarea 1/Permissions.md",
     "picoCTF/Tarea 1/chrono.md",
     "picoCTF/Tarea 1/ASCII Numbers.md",
-    "picoCTF/01 General Skills/2Warm.md",
     "picoCTF/01 General Skills/Lets Warm Up.md",
     "picoCTF/Tarea 1/Commitment Issues.md",
     "picoCTF/Tarea 1/Time Machine.md",
     "picoCTF/03 General Skills/Serpentine.md",
-    "picoCTF/Tarea 1/Collaborative Development.md",
-    "picoCTF/Tarea 1/Blame Game.md",
-    "picoCTF/Tarea 1/Binary Search.md",
-    "picoCTF/Tarea 1/binhexa.md",
-    "picoCTF/03 General Skills/Super SSH.md",
     "picoCTF/Tarea 1",
     "picoCTF/03 General Skills",
     "picoCTF/02 General Skilss",
     "picoCTF/01 General Skills",
     "picoCTF",
-    "plantilla/Sin nombre",
-    "01-GeneralSkills"
+    "plantilla/Sin nombre"
   ]
 }
