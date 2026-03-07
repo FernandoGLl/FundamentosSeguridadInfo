@@ -13,3 +13,6 @@ picoCTF{pr3tty_c0d3_51d374f0}
 - **Seguridad por Oscuridad:** Este reto demuestra que minificar el código **no es una medida de seguridad**. Es solo una mejora de rendimiento. 
 
 **Referencias**
+
+- https://www.suratica.es/que-es-la-minificacion/
+- https://es.wikipedia.org/wiki/Seguridad_por_oscuridad
