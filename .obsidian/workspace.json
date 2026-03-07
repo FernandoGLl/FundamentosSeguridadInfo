@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0f70ef834794f3ce",
+  "active": "2de67b3bdbb8c7af",
   "lastOpenFiles": [
+    "picoCTF/Tarea 2 web/Power Cookie.md",
     "picoCTF/Tarea 2 web/Unminify.md",
     "picoCTF/Tarea 2 web/Roboto Sans.md",
-    "picoCTF/Tarea 2 web/Power Cookie.md",
     "picoCTF/Tarea 2 web/WebDecode.md",
     "picoCTF/01 General Skills/2Warm.md",
     "picoCTF/Tarea 2 web/Local Authority.md",
