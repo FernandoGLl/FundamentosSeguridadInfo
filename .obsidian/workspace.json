@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 2 web/SQLiLite.md",
+                "file": "picoCTF/Actividad 13- Forensic 1/Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLiLite"
+              "title": "Glory of the Garden"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "2de67b3bdbb8c7af",
   "lastOpenFiles": [
-    "picoCTF/Tarea 2 web/Secrets.md",
     "picoCTF/Tarea 2 web/SQLiLite.md",
+    "picoCTF/Actividad 13- Forensic 1/Glory of the Garden.md",
+    "picoCTF/Actividad 13- Forensic 1",
+    "picoCTF/Tarea 2 web/Secrets.md",
     "picoCTF/Tarea 2 web/Power Cookie.md",
     "picoCTF/Tarea 2 web/Roboto Sans.md",
     "picoCTF/Tarea 2 web/Unminify.md",
@@ -231,12 +233,10 @@
     "picoCTF/Actividad 09",
     "Pasted image 20260222180518.png",
     "picoCTF/picoCTFWeb1/Client-side-again.md",
-    "picoCTF/picoCTFWeb1/where are the robots.md",
     "picoCTF/picoCTFWeb1",
     "picoCTF/Tarea 1",
     "picoCTF/03 General Skills",
     "picoCTF/02 General Skilss",
-    "picoCTF/01 General Skills",
-    "picoCTF"
+    "picoCTF/01 General Skills"
   ]
 }
