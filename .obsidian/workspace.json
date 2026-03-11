@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Actividad 14 - Forensic 2/01 c0rrupt.md",
+                "file": "picoCTF/Actividad 14 - Forensic 2/02 like1000.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 c0rrupt"
+              "title": "02 like1000"
             }
           }
         ],
@@ -201,11 +201,15 @@
   },
   "active": "2de67b3bdbb8c7af",
   "lastOpenFiles": [
-    "picoCTF/Actividad 13- Forensic 1/05 What Lies Within.md",
+    "picoCTF/Actividad 14 - Forensic 2/05 WhitePages.md",
+    "picoCTF/Actividad 14 - Forensic 2/04 shark on wire 2.md",
+    "picoCTF/Actividad 13- Forensic 1/03 shark on wire 2.md",
+    "picoCTF/Actividad 14 - Forensic 2/03 m00nwalk.md",
+    "picoCTF/Actividad 14 - Forensic 2/02 like1000.md",
     "picoCTF/Actividad 14 - Forensic 2/01 c0rrupt.md",
+    "picoCTF/Actividad 13- Forensic 1/05 What Lies Within.md",
     "picoCTF/Actividad 14 - Forensic 2",
     "picoCTF/Actividad 13- Forensic 1/04 So Meta.md",
-    "picoCTF/Actividad 13- Forensic 1/03 shark on wire 2.md",
     "picoCTF/Actividad 13- Forensic 1/02 extensions.md",
     "picoCTF/Actividad 13- Forensic 1/01 Glory of the Garden.md",
     "picoCTF/Tarea 2 web/SQLiLite.md",
@@ -226,11 +230,7 @@
     "picoCTF/Actividad 12/Trickster.md",
     "picoCTF/Actividad 12/SOAP.md",
     "picoCTF/Actividad 12/MatchTheRegex.md",
-    "picoCTF/Actividad 11/More SQLi.md",
-    "picoCTF/Actividad 11/Irish-Name-Repo 1.md",
-    "Bienvenido.md",
     "picoCTF/Actividad 12",
-    "picoCTF/Actividad 09/GET aHEAD.md",
     "picoCTF/Actividad 11",
     "picoCTF/Actividad 09",
     "Pasted image 20260222180518.png",
