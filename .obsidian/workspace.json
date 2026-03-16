@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d09e1856c7402a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e603ffdc8ecaa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a994fa0e8d17fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/02 Webnet1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Webnet1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df604efcd3f0bf2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff2e1ac3235ec27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5091235d0c30351",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9fa2c396d7d0539e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7968bbb67e65411b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75016433e70e54ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96afdff1ccd916d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d51e2e73b7049c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notas-hacking/picoCTF/01 General Skills/2Warm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 2Warm"
+            }
+          },
+          {
+            "id": "08b054e1a820b912",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notas-hacking/picoCTF/01 General Skills/2Warm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 2Warm"
+            }
+          },
+          {
+            "id": "e579800a4b06c455",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6ad19d76cd1bd312",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "392fa84060afd382",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notas-hacking/picoCTF/01 General Skills/2Warm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 2Warm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f6a994fa0e8d17fb",
+  "lastOpenFiles": [
+    "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/01 WebNet0.md",
+    "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/02 Webnet1.md",
+    "notas-hacking/notas-hacking",
+    "notas-hacking/Actividad8_FGLL.pdf",
+    "notas-hacking/Actividad8_FGLL.docx",
+    "picoCTF/plantilla.md",
+    "picoCTF/picoCTFWeb1/picobrowser.md",
+    "picoCTF/picoCTFWeb1/where are the robots.md",
+    "picoCTF/picoCTFWeb1/logon.md",
+    "picoCTF/picoCTFWeb1/Insp3ct0r.md",
+    "picoCTF/picoCTFWeb1/dont-use-client-side.md",
+    "picoCTF/picoCTFWeb1/Client-side-again.md",
+    "picoCTF/picoCTFWeb1",
+    "picoCTF/Actividad 12/Trickster.md",
+    "picoCTF/Actividad 12/SOAP.md",
+    "picoCTF/Actividad 12/Most Cookies.md",
+    "picoCTF/Actividad 12/MatchTheRegex.md",
+    "picoCTF/Actividad 15 - Foresnic 3/01 WebNet0.md",
+    "picoCTF/Tarea 2 web/WebDecode.md",
+    "picoCTF/Tarea 2 web/Unminify.md",
+    "picoCTF/Tarea 2 web/SQLiLite.md",
+    "picoCTF/Tarea 2 web/Secrets.md",
+    "picoCTF/Tarea 2 web/Roboto Sans.md",
+    "picoCTF/Tarea 2 web/Power Cookie.md",
+    "picoCTF/Tarea 2 web/Local Authority.md",
+    "picoCTF/Tarea 2 web/IntroToBurp.md",
+    "picoCTF/Tarea 2 web/Inspect HTML.md",
+    "picoCTF/Tarea 2 web/Includes.md",
+    "picoCTF/Tarea 1/Time Machine.md",
+    "picoCTF/Tarea 1/Special.md",
+    "picoCTF/Tarea 2 web",
+    "picoCTF/Tarea 1",
+    "picoCTF/Actividad 15 - Foresnic 3",
+    "picoCTF/Actividad 14 - Forensic 2",
+    "picoCTF/Actividad 13- Forensic 1",
+    "picoCTF/Actividad 12"
+  ]
+}
