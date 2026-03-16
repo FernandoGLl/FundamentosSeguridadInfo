@@ -4,10 +4,15 @@ We found this file. Recover the flag. [tunn3l_v1s10n](https://challenge-files.pi
 
 **Solución** 
 
-
+picoCTF{qu1t3_a_v13w_2020}
 
 **Notas adicionales** 
 
-
+- Al ejecutar el comando file nos dimos cuenta que este era un archivo corrupto o estaba mal configurado
+- Se utilizo un editor hexadecimal para corregir el encabezado del formato BMP
+- Para solucionar esto cambiamos el encabezado por `28 00 00 00` que es un formato estándar para que Windows lo reconozca.
+- Luego aumentamos la altura de forma manual para obtener la bandera
 
 **Referencias**
+- https://en.wikipedia.org/wiki/List_of_file_signatures
+- https://en.wikipedia.org/wiki/BMP_file_format
