@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/03 Matryoshka doll.md",
+                "file": "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/04 tunn3l v1s10n.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Matryoshka doll"
+              "title": "04 tunn3l v1s10n"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/02 Webnet1.md",
     "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/03 Matryoshka doll.md",
+    "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/04 tunn3l v1s10n.md",
+    "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/02 Webnet1.md",
     "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/01 WebNet0.md",
     "notas-hacking/notas-hacking",
     "notas-hacking/Actividad8_FGLL.pdf",
@@ -215,7 +216,6 @@
     "picoCTF/Tarea 2 web/IntroToBurp.md",
     "picoCTF/Tarea 2 web/Inspect HTML.md",
     "picoCTF/Tarea 2 web/Includes.md",
-    "picoCTF/Tarea 1/Time Machine.md",
     "picoCTF/Tarea 2 web",
     "picoCTF/Tarea 1",
     "picoCTF/Actividad 15 - Foresnic 3",
