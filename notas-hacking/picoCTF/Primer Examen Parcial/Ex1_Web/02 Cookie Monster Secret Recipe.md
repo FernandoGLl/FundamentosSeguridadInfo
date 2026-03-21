@@ -1,0 +1,18 @@
+#### Description
+
+Cookie Monster has hidden his top-secret cookie recipe somewhere on his website. As an aspiring cookie detective, your mission is to uncover this delectable secret. Can you outsmart Cookie Monster and find the hidden recipe? You can access the Cookie Monster [here](http://verbal-sleep.picoctf.net:62627/) and good luck
+
+**Solución**
+
+picoCTF{c00k1e_m0nster_l0ves_c00kies_73110ED1}
+
+**Notas adicionales**
+
+- Lo que se realizo fue iniciar sesión en la pagina web que nos direcciona la descripción 
+- Luego de esto con la ayuda de la extensión de Cookie-editor podemos ver las cookies que esta pagina tiene y nos damos cuenta que tiene un valor en base 64
+- Con ayuda de Cyberchef decodificamos esto y obtenemos la banders
+- Cyberchef es una pagina que me permite decodificar en diferentes formatos.
+
+**Referencias**
+
+- https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=Y0dsamIwTlVSbnRqTURCck1XVmZiVEJ1YzNSbGNsOXNNSFpsYzE5ak1EQnJhV1Z6WHpjek1URXdSVVF4ZlE&oeol=FF 
