@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/02 dont-you-love-banners.md",
+                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/03 flag_shop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 dont-you-love-banners"
+              "title": "03 flag_shop"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/01 FANTASY CTF.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/02 dont-you-love-banners.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/03 flag_shop.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/01 FANTASY CTF.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/Bookmarklet.md",
     "notas-hacking/picoCTF/Participacion picoCTF2026/SUDO MAKE ME A SANDWICH.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills",
@@ -219,7 +220,6 @@
     "picoCTF/picoCTFWeb1/dont-use-client-side.md",
     "picoCTF/picoCTFWeb1/Client-side-again.md",
     "picoCTF/picoCTFWeb1",
-    "picoCTF/Actividad 12/Trickster.md",
     "picoCTF/Tarea 2 web",
     "picoCTF/Tarea 1"
   ]
