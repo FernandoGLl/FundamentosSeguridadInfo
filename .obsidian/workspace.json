@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/05 findme.md",
+                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/07 SQL Direct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 findme"
+              "title": "07 SQL Direct"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/04 SSTI1.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/06 Java Code Analysis.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/07 SQL Direct.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/05 findme.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/04 SSTI1.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/03 head-dump.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/02 Cookie Monster Secret Recipe.md",
     "notas-hacking/picoCTF/01 General Skills/2Warm.md",
@@ -217,8 +219,6 @@
     "notas-hacking/notas-hacking",
     "notas-hacking/Actividad8_FGLL.pdf",
     "notas-hacking/Actividad8_FGLL.docx",
-    "picoCTF/plantilla.md",
-    "picoCTF/picoCTFWeb1/picobrowser.md",
     "picoCTF/picoCTFWeb1",
     "picoCTF/Tarea 2 web",
     "picoCTF/Tarea 1"
