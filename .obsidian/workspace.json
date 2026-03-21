@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6a994fa0e8d17fb",
+  "active": "d5091235d0c30351",
   "lastOpenFiles": [
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web",
+    "notas-hacking/picoCTF/Primer Examen Parcial",
     "notas-hacking/picoCTF/Participacion picoCTF2026/Quizploit.md",
     "notas-hacking/picoCTF/Participacion picoCTF2026/SUDO MAKE ME A SANDWICH.md",
     "notas-hacking/picoCTF/Participacion picoCTF2026/piece by piece.md",
@@ -216,11 +219,8 @@
     "picoCTF/Actividad 12/Trickster.md",
     "picoCTF/Actividad 12/SOAP.md",
     "picoCTF/Actividad 12/Most Cookies.md",
-    "picoCTF/Actividad 12/MatchTheRegex.md",
     "picoCTF/Tarea 2 web",
     "picoCTF/Tarea 1",
-    "picoCTF/Actividad 15 - Foresnic 3",
-    "picoCTF/Actividad 14 - Forensic 2",
-    "picoCTF/Actividad 13- Forensic 1"
+    "picoCTF/Actividad 15 - Foresnic 3"
   ]
 }
