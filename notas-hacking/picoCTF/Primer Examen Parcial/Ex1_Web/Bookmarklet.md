@@ -1,0 +1,13 @@
+#### Description
+
+Why search for the flag when I can make a bookmarklet to print it for me?
+
+**Solución** 
+
+
+
+**Notas adicionales** 
+
+
+
+**Referencias**
