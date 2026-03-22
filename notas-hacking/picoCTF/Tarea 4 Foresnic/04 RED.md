@@ -4,10 +4,36 @@ RED, RED, RED, RED Download the image: [red.png](https://challenge-files.picoctf
 
 **Solución**
 
-
+picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 
 **Notas adicionales**
 
+```
 
+fergll@FerGLl:/mnt/c/Users/ferch/Documents$ zsteg red.png
+meta Poem           .. text: "Crimson heart, vibrant and bold,\nHearts flutter at your sight.\nEvenings glow softly red,\nCherries burst with sweet life.\nKisses linger with your warmth.\nLove deep as merlot.\nScarlet leaves falling softly,\nBold in every stroke."
+chunk:0:IHDR        .. file: Adobe Photoshop Color swatch, version 0, 128 colors; 1st RGB space (0), w 0x80, x 0x806, y 0, z 0; 2nd HSB space (1), w 0x100, x 0, y 0xff01, z 0xff
+b1,rgba,lsb,xy      .. text: "cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ=="
+b1,rgba,msb,xy      .. file: OpenPGP Public Key
+b2,g,lsb,xy         .. text: "ET@UETPETUUT@TUUTD@PDUDDDPE"
+b2,rgb,lsb,xy       .. file: OpenPGP Secret Key
+b2,bgr,msb,xy       .. file: OpenPGP Public Key
+b2,rgba,lsb,xy      .. file: OpenPGP Secret Key
+b2,rgba,msb,xy      .. text: "CIkiiiII"
+b2,abgr,lsb,xy      .. file: OpenPGP Secret Key
+b2,abgr,msb,xy      .. text: "iiiaakikk"
+b3,rgba,msb,xy      .. text: "#wb#wp#7p"
+b3,abgr,msb,xy      .. text: "7r'wb#7p"
+b4,b,lsb,xy         .. file: 0421 Alliant compact executable not stripped
+
+```
+
+
+- **Diagnóstico:** Identificamos que usa esteganografía (datos ocultos en los canales de color, específicamente el rojo).
+    
+- **Extracción:** Ejecutamos `zsteg red.png` en la terminal para leer los bits modificados.
+    
+- **Resultado:** Localizamos la bandera `picoCTF{...}` directo en la salida del comando.
 
 **Referencias**
+- https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=ImNHbGpiME5VUm50eU0yUmZNWE5mZEdnelgzVnNkREZ0TkhRelgyTjFjak5mWmpCeVh6VTBaRzR6TlRWZmZRPT1jR2xqYjBOVVJudHlNMlJmTVhOZmRHZ3pYM1ZzZERGdE5IUXpYMk4xY2pOZlpqQnlYelUwWkc0ek5UVmZmUT09Y0dsamIwTlVSbnR5TTJSZk1YTmZkR2d6WDNWc2RERnROSFF6WDJOMWNqTmZaakJ5WHpVMFpHNHpOVFZmZlE9PWNHbGpiME5VUm50eU0yUmZNWE5mZEdnelgzVnNkREZ0TkhRelgyTjFjak5mWmpCeVh6VTBaRzR6TlRWZmZRPT0i&oeol=FF
