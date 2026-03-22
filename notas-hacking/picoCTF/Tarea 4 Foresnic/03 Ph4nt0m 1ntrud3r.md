@@ -4,10 +4,39 @@ A digital ghost has breached my defenses, and my sensitive data has been stolen!
 
 **Solución**
 
-
+picoCTF{1t_w4snt_th4t_34sy_tbh_4r_959f50d3}
 
 **Notas adicionales**
 
+```
 
+fergll@FerGLl:/mnt/c/Users/ferch/Documents$ strings myNetworkTraffic.pcap | grep "=="
+ezF0X3c0cw==
+cGljb0NURg==
+bnRfdGg0dA==
+YmhfNHJfOQ==
+fQ==
+XzM0c3lfdA==
+NTlmNTBkMw==
+fergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "ezF0X3c0cw==" | base64 -d
+{1t_w4sfergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "cGljb0NURg==" | base64 -d
+picoCTFfergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "bnRfdGg0dA==^C| base64 -d
+fergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "bnRfdGg0dA==" | base64 -d
+nt_th4tfergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "YmhfNHJfOQ==" | base64 -d
+bh_4r_9fergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "fQ==" | base64 -d
+}fergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "XzM0c3lfdA==" | base64 -d
+_34sy_tfergll@FerGLl:/mnt/c/Users/ferch/Documents$ echo "NTlmNTBkMw==" | base64 -d
+59f50d3fergll@FerGLl:/mnt/c/Users/ferch/Documents$
+
+picoCTF{1t_w4snt_th4t_34sy_tbh_4r_959f50d3}
+```
+
+- **Filtro rápido:** Usamos `strings` y `grep "=="` en la terminal para extraer directamente las cadenas de texto ocultas.
+    
+- **Decodificación:** Pasamos esos textos por `base64 -d` para revelar las palabras reales.
+    
+- **Ensamblaje:** Ordenamos lógicamente los fragmentos decodificados para armar la frase de la bandera.
 
 **Referencias**
+
+- 

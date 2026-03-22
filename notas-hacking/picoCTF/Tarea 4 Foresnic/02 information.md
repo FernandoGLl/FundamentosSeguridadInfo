@@ -6,7 +6,7 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 
 picoCTF{the_m3tadata_1s_modified}
 
-**Notas adicionales**
+**Notas adicionales** 
 
 ```
 
