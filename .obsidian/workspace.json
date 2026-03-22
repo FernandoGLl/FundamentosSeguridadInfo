@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Tarea 4 Foresnic/04 RED.md",
+                "file": "notas-hacking/picoCTF/Tarea 4 Foresnic/05 Scan Surprise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 RED"
+              "title": "05 Scan Surprise"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
+    "notas-hacking/picoCTF/Tarea 4 Foresnic/04 RED.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/03 Ph4nt0m 1ntrud3r.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/02 information.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/01 CanYouSee.md",
@@ -195,7 +196,6 @@
     "notas-hacking/picoCTF/Tarea 4 Foresnic/06 Secret of the Polyglot.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/Sin nombre",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/05 Scan Surprise.md",
-    "notas-hacking/picoCTF/Tarea 4 Foresnic/04 RED.md",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/06 Sleuthkit Intro.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/05 Sleuthkit Apprentice.md",
