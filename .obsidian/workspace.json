@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/04 Operation Orchid.md",
+                "file": "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/05 Sleuthkit Apprentice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Operation Orchid"
+              "title": "05 Sleuthkit Apprentice"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/03 Operation Oni.md",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/04 Operation Orchid.md",
+    "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/05 Sleuthkit Apprentice.md",
+    "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/03 Operation Oni.md",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/02 Milkslap.md",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/01 Disk, disk, sleuth!.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/08 SSTI2.md",
@@ -215,7 +216,6 @@
     "notas-hacking/picoCTF/Participacion picoCTF2026/DISKO 4.md",
     "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/04 tunn3l v1s10n.md",
     "notas-hacking/picoCTF/Participacion picoCTF2026/MY GIT.md",
-    "notas-hacking/picoCTF/Participacion picoCTF2026/Printer Shares.md",
     "notas-hacking/picoCTF/Participacion picoCTF2026",
     "notas-hacking/notas-hacking",
     "notas-hacking/Actividad8_FGLL.pdf",
