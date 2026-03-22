@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/08 SSTI2.md",
+                "file": "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/01 Disk, disk, sleuth!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 SSTI2"
+              "title": "01 Disk, disk, sleuth!"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/04 SSTI1.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/08 SSTI2.md",
+    "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/01 Disk, disk, sleuth!.md",
+    "notas-hacking/picoCTF/Actividad 16 - Foresnic 4",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/04 SSTI1.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/07 SQL Direct.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/06 Java Code Analysis.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/05 findme.md",
@@ -215,12 +217,10 @@
     "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/01 WebNet0.md",
     "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/02 Webnet1.md",
     "notas-hacking/picoCTF/Participacion picoCTF2026",
-    "notas-hacking/picoCTF/Actividad 15 - Foresnic 3/03 Matryoshka doll.md",
     "notas-hacking/notas-hacking",
     "notas-hacking/Actividad8_FGLL.pdf",
     "notas-hacking/Actividad8_FGLL.docx",
     "picoCTF/picoCTFWeb1",
-    "picoCTF/Tarea 2 web",
-    "picoCTF/Tarea 1"
+    "picoCTF/Tarea 2 web"
   ]
 }
