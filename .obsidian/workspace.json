@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/04 HashingJobApp.md",
+                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/05 Rust fixme 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 HashingJobApp"
+              "title": "05 Rust fixme 1"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Tarea 4 Foresnic/09 St3g0.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/04 HashingJobApp.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/05 Rust fixme 1.md",
+    "notas-hacking/picoCTF/Tarea 4 Foresnic/09 St3g0.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/08 Redaction gone wrong.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/07 hideme.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/06 Secret of the Polyglot.md",
@@ -214,7 +215,6 @@
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/02 Cookie Monster Secret Recipe.md",
     "notas-hacking/picoCTF/01 General Skills/2Warm.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/01 Bookmarklet.md",
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/03 flag_shop.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web",
     "notas-hacking/picoCTF/Primer Examen Parcial",
