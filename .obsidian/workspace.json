@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/08 Python Wrangling.md",
+                "file": "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/09 SansAlpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 Python Wrangling"
+              "title": "09 SansAlpha"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/07 Rust fixme 3.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/08 Python Wrangling.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/09 SansAlpha.md",
+    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/07 Rust fixme 3.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/06 Rust fixme 2.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/05 Rust fixme 1.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/04 HashingJobApp.md",
@@ -214,7 +215,6 @@
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/07 SQL Direct.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/06 Java Code Analysis.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/05 findme.md",
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web/03 head-dump.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web",
     "notas-hacking/picoCTF/Primer Examen Parcial",
