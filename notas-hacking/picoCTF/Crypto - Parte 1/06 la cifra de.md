@@ -31,7 +31,7 @@ Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse 
 
 ```
 
-- Se procedió a decodificar el mensaje anterior con una pagina especializada en la decodificacion en formato  **Vigenère**, en este caso se especifico que la longitud de la llave este esnte 3 - 15 caracteres.
+- Se procedió a decodificar el mensaje anterior con una página especializada en la decodificación en formato  **Vigenère**, en este caso se especifico que la longitud de la llave este entre 3 - 15 caracteres.
 
 **Referencias**
 
