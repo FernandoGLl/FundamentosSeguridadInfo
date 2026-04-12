@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Crypto - Parte 1/06 la cifra de.md",
+                "file": "notas-hacking/picoCTF/Crypto - Parte 1/07 Tapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 la cifra de"
+              "title": "07 Tapping"
             }
           }
         ],
@@ -201,10 +201,11 @@
   },
   "active": "f6a994fa0e8d17fb",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Crypto - Parte 1/05 Easy1.md",
-    "notas-hacking/picoCTF/Crypto - Parte 1/06 la cifra de.md",
-    "notas-hacking/picoCTF/Crypto - Parte 1/Sin nombre",
     "notas-hacking/picoCTF/Crypto - Parte 1/02 interencdec.md",
+    "notas-hacking/picoCTF/Crypto - Parte 1/07 Tapping.md",
+    "notas-hacking/picoCTF/Crypto - Parte 1/06 la cifra de.md",
+    "notas-hacking/picoCTF/Crypto - Parte 1/05 Easy1.md",
+    "notas-hacking/picoCTF/Crypto - Parte 1/Sin nombre",
     "notas-hacking/picoCTF/Crypto - Parte 1/04 caesar.md",
     "notas-hacking/picoCTF/Crypto - Parte 1/03 The Numbers.md",
     "notas-hacking/picoCTF/Crypto - Parte 1/01-13.md",
@@ -230,7 +231,6 @@
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/06 Sleuthkit Intro.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/05 Sleuthkit Apprentice.md",
-    "notas-hacking/picoCTF/Actividad 16 - Foresnic 4/04 Operation Orchid.md",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_Web",
