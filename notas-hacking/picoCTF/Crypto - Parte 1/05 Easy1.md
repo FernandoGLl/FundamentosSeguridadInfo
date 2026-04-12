@@ -9,7 +9,7 @@ picoCTF{CRYPTOISFUN}
 
 **Notas adicionales**
 
-- Se utilizo el decodificador Cyberchef utilizando el formato Viegenere Decode donde se introduce la llave que se nos proporciona y en la entrada ponemos lo que nos dieron para decodificar.
+- Se utilizo el decodificador Cyberchef utilizando el formato Viegenere Decode donde se introduce la llave que se nos proporciona y en la entrada ponemos lo que nos dieron para decodific.
 - Cyberchef es una pagina que me permite decodificar en diferentes formatos.
 
 **Referencias** 
