@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Actividad 19 - Crypto 3/03 b00tl3gRSA3.md",
+                "file": "notas-hacking/picoCTF/Actividad 19 - Crypto 3/04 miniRSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 b00tl3gRSA3"
+              "title": "04 miniRSA"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "01df0fadd9aad435",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Actividad 19 - Crypto 3/02 b00tl3gRSA2.md",
     "notas-hacking/picoCTF/Actividad 19 - Crypto 3/03 b00tl3gRSA3.md",
+    "notas-hacking/picoCTF/Actividad 19 - Crypto 3/04 miniRSA.md",
+    "notas-hacking/picoCTF/Actividad 19 - Crypto 3/02 b00tl3gRSA2.md",
     "Pasted image 20260419140638.png",
     "notas-hacking/picoCTF/Actividad 19 - Crypto 3/01 Mind your Ps and Qs.md",
     "notas-hacking/picoCTF/Crypto - Parte 2/01 rsa-pop-quiz.md",
@@ -216,7 +217,6 @@
     "notas-hacking/picoCTF/Tarea 4 Foresnic/07 hideme.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/06 Secret of the Polyglot.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/05 Scan Surprise.md",
-    "notas-hacking/picoCTF/Tarea 4 Foresnic/04 RED.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/Sin nombre",
     "notas-hacking/picoCTF/Tarea 4 Foresnic",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4",
