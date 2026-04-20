@@ -32,4 +32,6 @@ b'picoCTF{n33d_a_lArg3r_e_bc950e0e}'
 - Como lo indicaba en las pistas se procedió a la obtención de la bandera de otra forma.
 - Se utilizo la función de iroot para extraer la raíz cubica exacta entera del texto cifrado. Lo que nos devolvió los valores de la raíz calculada y el booleano que era exacta.
 - Al convertir la raíz numérica obtenemos de vuelta a bytes usando la función lon_to_bytes, y así obtenemos la bandera.
+
 **Referencias**
+- 
