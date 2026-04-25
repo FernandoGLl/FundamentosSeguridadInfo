@@ -16,7 +16,7 @@ rgnoDVD{O0NU_WQ3_G1G3O3T3_A1AH3S_cc82272b}
 
 ```
 
-- Como el nombre dedl reto lo indica se utilizo la herramienta de cyberchef para decodificar en formato Vigenere, utilizando la llave de CTLAB que nos proporciona la descripción.
+- Como el nombre dedl reto lo indica se utilizo la herramienta de cyberchef para decodificar en formato Vigenere, utilizando la llave de CYLAB que nos proporciona la descripción.
 
 **Referencias**
 
