@@ -27,7 +27,10 @@ picoCTF{C7r1F_54V35_71M3}
 - Se localiza el número de línea exacto del usuario objetivo (`cultiris`).
 - Se saca el texto cifrado de esa misma línea en el archivo de contraseñas.
 - Se reconoce el formato cifrado como **ROT13** (un cifrado César clásico) y se revierte el desplazamiento de letras para obtener la _flag_ final.
+- Se utilizo la herramienta cyberchef para decodificar la bandera.
 - El comando `378p` junto con `-n` le indica a la terminal: _"Ignora todo el archivo, solo imprime (p) en pantalla el contenido de la línea 378"_.
 
 **Referencias**
+
+- https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)&input=Y3ZwYlBHU3tQN2UxU181NEkzNV83MVozfQ
 
