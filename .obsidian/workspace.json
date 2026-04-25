@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Tarea 5 - Crypto/04 credstuff.md",
+                "file": "notas-hacking/picoCTF/Tarea 5 - Crypto/05 morse-code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 credstuff"
+              "title": "05 morse-code"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "01df0fadd9aad435",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Tarea 5 - Crypto/03 Crack the Power.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/04 credstuff.md",
+    "notas-hacking/picoCTF/Tarea 5 - Crypto/05 morse-code.md",
+    "notas-hacking/picoCTF/Tarea 5 - Crypto/03 Crack the Power.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/02 hashcrack.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/01 EVEN RSA CAN BE BROKEN.md",
     "notas-hacking/picoCTF/Actividad 20 - Crypto 4/05 ReadMyCert.md",
@@ -218,7 +219,6 @@
     "notas-hacking/picoCTF/01 General Skills/2Warm.md",
     "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/10 Specialer.md",
     "notas-hacking/picoCTF/Crypto - Parte 1",
-    "notas-hacking/picoCTF/Primer Examen Parcial/Ex1_GenSkills/09 SansAlpha.md",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/Sin nombre",
     "notas-hacking/picoCTF/Tarea 4 Foresnic",
     "notas-hacking/picoCTF/Actividad 16 - Foresnic 4",
