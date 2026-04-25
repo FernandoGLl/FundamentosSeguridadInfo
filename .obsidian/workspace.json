@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "87a1d76e970b3601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas-hacking/picoCTF/Tarea 5 - Crypto/07 substitution0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 substitution0"
+            }
+          },
+          {
             "id": "01df0fadd9aad435",
             "type": "leaf",
             "state": {
@@ -184,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01df0fadd9aad435",
+  "active": "87a1d76e970b3601",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Tarea 5 - Crypto/05 morse-code.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/06 rail-fence.md",
+    "notas-hacking/picoCTF/Tarea 5 - Crypto/07 substitution0.md",
+    "notas-hacking/picoCTF/Tarea 5 - Crypto/05 morse-code.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/04 credstuff.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/03 Crack the Power.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/02 hashcrack.md",
@@ -217,7 +232,6 @@
     "notas-hacking/picoCTF/Crypto - Parte 1/04 caesar.md",
     "notas-hacking/picoCTF/Crypto - Parte 1/03 The Numbers.md",
     "notas-hacking/picoCTF/Crypto - Parte 1/01-13.md",
-    "notas-hacking/picoCTF/01 General Skills/2Warm.md",
     "notas-hacking/picoCTF/Crypto - Parte 1",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/Sin nombre",
     "notas-hacking/picoCTF/Tarea 4 Foresnic",
