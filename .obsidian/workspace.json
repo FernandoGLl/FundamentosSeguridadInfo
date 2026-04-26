@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Actividad 21 - Reversing 1/02 vault-door-1.md",
+                "file": "notas-hacking/picoCTF/Actividad 21 - Reversing 1/03 vault-door-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 vault-door-1"
+              "title": "03 vault-door-3"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "d6cd4fc2d63f80b8",
   "lastOpenFiles": [
-    "notas-hacking/picoCTF/Actividad 21 - Reversing 1/01 vault-door-training.md",
     "notas-hacking/picoCTF/Actividad 21 - Reversing 1/02 vault-door-1.md",
+    "notas-hacking/picoCTF/Actividad 21 - Reversing 1/03 vault-door-3.md",
+    "notas-hacking/picoCTF/Actividad 21 - Reversing 1/01 vault-door-training.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/07 substitution0.md",
     "notas-hacking/picoCTF/Tarea 5 - Crypto/10 Vigenere.md",
     "notas-hacking/picoCTF/Actividad 21 - Reversing 1",
@@ -217,7 +218,6 @@
     "notas-hacking/picoCTF/Crypto - Parte 1/08 waves over lambda.md",
     "notas-hacking/picoCTF/Crypto - Parte 1/06 la cifra de.md",
     "notas-hacking/picoCTF/Crypto - Parte 2",
-    "notas-hacking/picoCTF/Crypto - Parte 1/02 interencdec.md",
     "notas-hacking/picoCTF/Crypto - Parte 1/Sin nombre",
     "notas-hacking/picoCTF/Crypto - Parte 1",
     "notas-hacking/picoCTF/Tarea 4 Foresnic/Sin nombre",
